@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'KRKZ Blockes'; /*a name to be used later*/
+    src: url("/Fonts/4_KRKZBlockes.ttf") format("ttf"); /*URL to font*/
+}
+
+@font-face {
+    font-family: 'Unispace'; /*a name to be used later*/
+    src: url("/Fonts/unispaceBold.ttf") format("ttf"); /*URL to font*/
+}
+
+#borderPane{
+    -fx-background-image: url("../Images/background.jpg");
+    -fx-background-size: cover;
+}
+
+#score {
+    -fx-font-family: 'KRKZ Blockes';
+}
+
+#linesSent {
+    -fx-font-family: 'Unispace';
+    -fx-font-size: 70;
+    -fx-fill: orange;
+    -fx-stroke: black;
+    -fx-stroke-width: 3;
+}

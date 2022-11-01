@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="880.0" prefWidth="900.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="tetris.controller.MenuController">
+   <children>
+      <ImageView fitHeight="880.0" fitWidth="900.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="/Images/background.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="502.0" fitWidth="505.0" layoutX="200.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="/Images/menuLogo.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="howToPlayButton" fitHeight="134.0" fitWidth="264.0" layoutX="319.0" layoutY="645.0" onMouseClicked="#handleHowToPlay" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="/Images/howToPlayButton.png" />
+         </image>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </ImageView>
+      <ImageView fx:id="quitButton" fitHeight="80.0" fitWidth="264.0" layoutX="320.0" layoutY="752.0" onMouseClicked="#handleQuit" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="/Images/quitButton.png" />
+         </image>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </ImageView>
+      <ImageView fx:id="startButton" fitHeight="130.0" fitWidth="291.0" layoutX="305.0" layoutY="514.0" onMouseClicked="#handleStart" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="/Images/startButton.png" />
+         </image>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </ImageView>
+   </children>
+</AnchorPane>

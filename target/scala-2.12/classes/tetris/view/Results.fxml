@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="880.0" prefWidth="900.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="tetris.controller.ResultsController">
+   <children>
+      <ImageView fitHeight="880.0" fitWidth="900.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="/Images/resultsBackground.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="93.0" fitWidth="224.0" layoutX="219.0" layoutY="486.0" onMouseClicked="#handleMainMenu" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="/Images/mainMenuButton.png" />
+         </image>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </ImageView>
+      <ImageView fitHeight="82.0" fitWidth="224.0" layoutX="476.0" layoutY="487.0" onMouseClicked="#handleQuit" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="/Images/quitButton.png" />
+         </image>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </ImageView>
+      <Text id="score" fx:id="score" layoutX="325.0" layoutY="458.0" stroke="#824104" strokeType="OUTSIDE" strokeWidth="0.0" text="36" textAlignment="CENTER" wrappingWidth="275.6708984375">
+         <font>
+            <Font size="77.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>

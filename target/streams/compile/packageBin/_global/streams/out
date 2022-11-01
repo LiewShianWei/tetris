@@ -1,0 +1,135 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\myscalafx_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Fonts[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\Fonts[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Fonts\4_KRKZBlockes.ttf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\Fonts\4_KRKZBlockes.ttf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Fonts\unispaceBold.ttf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\Fonts\unispaceBold.ttf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Images[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\Images[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Images\background.jpg[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\Images\background.jpg[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Images\closeButton.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\Images\closeButton.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Images\gameScreen.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\Images\gameScreen.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Images\howToPlayBackground.jpg[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\Images\howToPlayBackground.jpg[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Images\howToPlayButton.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\Images\howToPlayButton.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Images\mainMenuButton.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\Images\mainMenuButton.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Images\menuLogo.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\Images\menuLogo.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Images\quitButton.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\Images\quitButton.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Images\resultsBackground.jpg[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\Images\resultsBackground.jpg[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Images\startButton.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\Images\startButton.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Images\tetrisFriend.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\Images\tetrisFriend.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Sounds[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\Sounds[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Sounds\gameover.mp3[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\Sounds\gameover.mp3[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Sounds\harddrop.mp3[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\Sounds\harddrop.mp3[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Sounds\lineClear.mp3[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\Sounds\lineClear.mp3[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Sounds\TetrisBattleMusic.mp3[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\Sounds\TetrisBattleMusic.mp3[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Styles[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\Styles[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Styles\main.css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\Styles\main.css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\Block.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\Block.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\Board$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\Board$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\Board.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\Board.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\BoardRect$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\BoardRect$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\BoardRect.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\BoardRect.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\controller[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\controller[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\controller\HowToPlayController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\controller\HowToPlayController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\controller\HowToPlayController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\controller\HowToPlayController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\controller\MenuController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\controller\MenuController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\controller\MenuController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\controller\MenuController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\controller\ResultsController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\controller\ResultsController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\controller\ResultsController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\controller\ResultsController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\LShaped$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\LShaped$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\LShaped.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\LShaped.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\MainApp$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\MainApp$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\MainApp$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\MainApp$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\MainApp$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\MainApp$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\MainApp$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\MainApp$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\MainApp$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\MainApp$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\MainApp$$anon$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\MainApp$$anon$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\MainApp$$anon$7$$anon$8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\MainApp$$anon$7$$anon$8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\MainApp$$anon$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\MainApp$$anon$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\MainApp$$anon$9.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\MainApp$$anon$9.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\MainApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\MainApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\MainApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\MainApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\MainApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\MainApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\ReversedLShaped$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\ReversedLShaped$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\ReversedLShaped.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\ReversedLShaped.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\SquareShaped$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\SquareShaped$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\SquareShaped.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\SquareShaped.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\SShaped$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\SShaped$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\SShaped.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\SShaped.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\StraightShaped$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\StraightShaped$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\StraightShaped.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\StraightShaped.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\TShaped$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\TShaped$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\TShaped.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\TShaped.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\view[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\view[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\view\HowToPlay.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\view\HowToPlay.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\view\Menu.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\view\Menu.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\view\Results.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\view\Results.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\view\RootLayout.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\view\RootLayout.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\ZShaped$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\ZShaped$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tetris\ZShaped.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shian\Documents\Studies\University\Sem 5\OOP\tetris\target\scala-2.12\classes\tetris\ZShaped.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
